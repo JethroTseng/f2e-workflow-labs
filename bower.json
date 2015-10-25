@@ -1,0 +1,31 @@
+{
+  "name": "f2e-workflow-labs",
+  "homepage": "https://github.com/JethroTseng/f2e-workflow-labs",
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "chris.tseng"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.3",
+    "angular": "~1.4.7",
+    "angular-sanitize": "~1.4.7",
+    "extras.angular.plus": "~0.9.3",
+    "moment": "~2.10.6",
+    "angular-ui-router": "~0.2.15",
+    "toastr": "~2.1.2",
+    "angular-animate": "~1.4.7",
+    "bootstrap": "~3.3.5"
+  }
+}
