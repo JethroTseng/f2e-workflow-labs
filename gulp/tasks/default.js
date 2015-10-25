@@ -1,8 +1,9 @@
 var gulp = require('gulp');
 var del = require('del');
-var concat = require('gulp-concat');
+
 var config = require('../config');
 
+var concat = require('gulp-concat');
 
 gulp.task('default', ['mytask1', 'mytask2'], function() {
 	console.log('Hello Gulp');
