@@ -1,9 +1,8 @@
-(function () {
+(function() {
     'use strict';
 
-    angular.module('app.admin', [
+    angular.module('app.dashboard', [
         'app.core',
         'app.widgets'
       ]);
-// 123
 })();
